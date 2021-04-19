@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello Phoenix!!!!!!!!</title>
+</head>
+<body>
+	<div><p><h1>HeLLo PHoEniX!!!!!!!!!!</h1>
+		<hr></div>
+		<div>
+			<ul>
+				<li>About</li>
+				<li><a href="https://www.instagram.com/alvarghese258/">Help</a></li>
+				<li>Get in touch</li>
+				<li>Why us????</li>
+
+			</ul>
+		</div>
+	<div>Hifriends, we provide you all a platform where 
+all of you 
+can freely 
+speak about your deepest 
+feelings. 
+This platform is especially 
+for the ones 
+who can't speak up about 
+their struggles 
+to anyone! 
+So we provide this amazing place for the ones who would 
+like to share 
+about their troubles to us and write letters to us, 
+mentioning</div>
+<div>HELLO PHOENIX!........<br>
+Telling 
+us 
+freely about whatever you would like to share! 
+We would revert with a letter...STRENGTHING you 
+all 
+ENCOURAGING you all and showing GOD'S wonderful grace, mercy, 
+love, and awe-inspiring work! 
+HAVE HOPE IN THE LORD! 
+SPEAK 
+He works in different and mysterious ways which aren't 
+humanly understandable!</div>
+
+<br>TRUST IN THE LORD WITH ALL YOUR HEART AND LEAN NOT ON 
+UP HERE 
+YOUR OWN UNDERSTANDING, AND HE WILL MAKE YOUR PATH Proverbs Ch:3 verse5,6</p>
+<div><img src="https://images.unsplash.com/photo-1474417426737-fbbff0e62ea0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGVhY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60"width="200px";></div>
+<form >
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="First name"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Last name"><br><br>
+  <input type="submit" value="Submit"><br>
+  <a href="https://www.instagram.com/alvarghese258/">CLICK HERE TO FOLLOW MY INSTAGRAM</a>
+</form> 
+</body>
+</html>
